@@ -8,7 +8,6 @@ Backend: Node.js
 Database: MySQL,MongoDB
 Design: Figma
 Music Production: FL Studio
-Other: Flutter, Dart
 
 🌟 Projects
 TownTrolley: A platform connecting farmers and customers for direct purchasing of fresh groceries.
