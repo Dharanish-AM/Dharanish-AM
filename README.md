@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharanish A M</h1>
 <h3 align="center">A passionate full-stack developer harnessing the power of the MERN stack to create innovative web and mobile applications. With a deep understanding of MongoDB, Express, React, and Node.js, I strive to build dynamic and responsive user experiences that delight users. My expertise in React Native empowers me to develop cross-platform mobile applications that are both performant and feature-rich. I am committed to writing clean, maintainable code and following best practices to ensure efficient development processes. Join me as we explore new frontiers in technology together!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharanish-am&label=Profile%20views&color=0e75b6&style=flat" alt="dharanish-am" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharanish-am" alt="dharanish-am" /></a> </p>
 
