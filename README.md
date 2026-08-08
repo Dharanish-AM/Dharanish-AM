@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=dharanish-am&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharanish-am&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -177,13 +173,13 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/dist/github-contribution-grid-snake.svg" />
+  <img src="dist/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🧊 3D Contribution Calendar
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/profile-3d-contrib/profile-night-green.svg" />
+ <img src="profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
