@@ -19,7 +19,7 @@
 | --- | --- |
 | Portfolio | [portfolio-amd.vercel.app](https://portfolio-amd.vercel.app/) |
 | Email | dharanish816@gmail.com |
-| Resume | [View Resume](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing) |
+| Resume | [View Resume](https://drive.google.com/drive/folders/1a5rBF_rjfWaL7O9xr0mE3t9rFzMIcxNo?usp=sharing) |
 | Core Stack | React, React Native, Node.js, Spring Boot, MongoDB, SQL |
 
 ### 🎯 Current Goals
